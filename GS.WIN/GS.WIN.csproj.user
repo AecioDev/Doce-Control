@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Compras\Cadastros\CadFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Compras\Cadastros\Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Compras\Consultas\ListaFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Cadastros\CadProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Cadastros\CadUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Cadastros\CadGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Consultas\ListaProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Consultas\ListaGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Estoque\Consultas\ListaUnidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shared\Cadastros\CadEndereco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vendas\Consultas\ListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shared\Acesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shared\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vendas\Cadastros\CadClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
